@@ -1,8 +1,9 @@
-package net.halfheart.engine;
+package net.halfheart.lonesomeroad;
+import net.halfheart.engine.Debug;
+import net.halfheart.engine.Game;
 import net.halfheart.engine.core.Achievements;
 import net.halfheart.engine.core.SaveSystem;
 import net.halfheart.engine.core.TerminalFunctions;
-
 import java.io.IOException;
 import java.util.Scanner;
 

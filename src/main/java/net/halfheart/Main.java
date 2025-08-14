@@ -1,5 +1,5 @@
 package net.halfheart;
-import net.halfheart.engine.StartMenu;
+import net.halfheart.lonesomeroad.StartMenu;
 
 import java.io.IOException;
 

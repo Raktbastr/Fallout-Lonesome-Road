@@ -40,4 +40,3 @@ tasks.jar {
             .map { zipTree(it) }
     )
 }
-
