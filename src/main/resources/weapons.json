@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Combat Knife",
+    "desc": "A combat knife, US Army issue.",
+    "value": 5,
+    "unit": "slash",
+    "type": "str",
+    "cost": 10,
+    "weight": 3
+  },
+  {
+    "name": "Baseball Bat",
+    "desc": "A baseball bat, a remnant of the pre-war world.",
+    "value": 5,
+    "unit": "bash",
+    "type": "str",
+    "cost": 10,
+    "weight": 3
+  },
+  {
+    "name": "10mm Pistol",
+    "desc": "A N99 10mm pistol. Basic, but reliable.",
+    "value": 10,
+    "unit": "ballistic",
+    "special": "agl",
+    "cost": 10,
+    "weight": 3
+  },
+  {
+    "name": "Hunting Rife",
+    "desc": "A hunting rifle, held together with wire and tape.",
+    "value": 15,
+    "unit": "ballistic",
+    "type": "per",
+    "cost": 20,
+    "weight": 7
+  },
+  {
+    "name": "Laser Pistol",
+    "desc": "An AEP7 laser pistol, now with new focusing crystals!",
+    "value": 20,
+    "unit": "laser",
+    "special": "agl",
+    "cost": 30,
+    "weight": 4
+  },
+  {
+    "name": "Laser rifle",
+    "desc": "An AER9 laser rifle, you wish it had sights.",
+    "value": 25,
+    "unit": "laser",
+    "special": "per",
+    "cost": 40,
+    "weight": 10
+  },
+  {
+    "name": "Plasma Pistol",
+    "desc": "A plasma pistol, it looks like a science fair project.",
+    "value": 30,
+    "unit": "plasma",
+    "special": "per",
+    "cost": 50,
+    "weight": 4
+  },
+  {
+    "name": "Plasma Rifle",
+    "desc": "A plasma rifle, it looks like a slightly better science fair project.",
+    "value": 10,
+    "unit": "plasma",
+    "special": "per",
+    "cost": 60,
+    "weight": 12
+  },
+  {
+    "name": "Fists (Unarmed)",
+    "desc": "Your Fists... how did you get here.",
+    "value": 5,
+    "unit": "bash",
+    "special": "str",
+    "cost": 10,
+    "weight": 3
+  }
+]
